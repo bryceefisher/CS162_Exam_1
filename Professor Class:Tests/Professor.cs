@@ -33,7 +33,7 @@ public class Professor
             }
             else
             {
-                throw new ArgumentException("LNumber must be 8 characters long");
+                throw new ArgumentException("LNumber must be 9 characters long");
             }
 
         }
